@@ -1,6 +1,6 @@
 Description: >-
     This template deploys an AWS CodeBuild project that
-    performs the layercheck.
+    performs the layercheck. Test
 
 Parameters:
   NetworkStackName:
