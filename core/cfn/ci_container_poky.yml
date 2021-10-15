@@ -1,7 +1,7 @@
 Description: >-
     This template deploys an AWS CodeBuild project that
     builds the docker container used for YP builds. It depends on the
-    CI Network template.
+    CI Network template. Test
 
 Parameters:
   NetworkStackName:
